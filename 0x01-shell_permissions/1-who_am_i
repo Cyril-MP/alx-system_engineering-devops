@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 groups
+=======
+id -u -n
+>>>>>>> 5bfe75e8df9ada2618c85d27edff7ddee1334916
